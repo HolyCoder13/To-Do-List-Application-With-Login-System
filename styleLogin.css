@@ -1,0 +1,27 @@
+#up{
+    width:100%;
+    height:100px;
+    float:left;
+    background-color:#08bf23;
+    color:white;
+    text-align:center;
+    font-size:40px;
+    }
+    #mid{
+        width:100%;
+        height:900px;
+        background-color:#d3dad4;
+        text-align:center;
+        float:left;
+    }
+
+    #foot{
+        width:100%;
+        height:40px;
+        float:left;
+        background-color:#08bf23;
+        color:white;
+        text-align:right;
+        font-size:10px;   
+    }
+    
